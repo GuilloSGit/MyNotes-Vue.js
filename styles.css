@@ -1,4 +1,5 @@
 .bodyContainer{
     color: lightblue;
-    background-image: url('http://www.olympiangym.com.au/images/bg/bg6.jpg');
+    background: url('http://www.olympiangym.com.au/images/bg/bg6.jpg');
+    background-size:180vh;
 }
