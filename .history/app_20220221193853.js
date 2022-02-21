@@ -41,5 +41,3 @@ const app = new Vue({
         }
     }
 });
-
-console.log("Guillermo Created this page")
